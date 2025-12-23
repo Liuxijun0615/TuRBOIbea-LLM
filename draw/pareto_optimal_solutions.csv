@@ -1,0 +1,7 @@
+Objective_1,Objective_2,Prompt,Algorithm
+0.106060606060606,0.4285714285714285,"Given the user's session interaction history, perform the following tasks sequentially:
+1. Identify one or more item combinations present in the session data.
+2. For each combination, deduce the user's underlying interactive intent.
+3. Evaluate all inferred intents and choose the one that most accurately reflects the user's current preferences.
+4. Using the selected intent, reorder the 20 items in the candidate set by their likelihood of future user interaction, presenting the complete ranked list with item indices. Ensure all items from the candidate set are included in the ranking.",TuRBO-IBEA
+,,
